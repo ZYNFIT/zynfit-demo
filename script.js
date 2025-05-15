@@ -1,1 +1,1 @@
-console.log('ZYNFIT full sistem aktif.');
+console.log('ZYNFIT full version loaded.');
