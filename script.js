@@ -1,0 +1,1 @@
+console.log('ZYNFIT full sistem aktif.');
